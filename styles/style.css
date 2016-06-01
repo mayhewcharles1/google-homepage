@@ -1,0 +1,66 @@
+div.image{
+
+position: relative;
+top: 200px;
+left: 550px;
+
+}
+
+div.form{
+
+position: relative;
+top: 230px;
+left: 440px;
+
+}
+
+div.buttonl{
+
+position: relative;
+top: 250px;
+left: 570px;	
+
+}
+
+div.buttonr{
+
+position: relative;
+top: 230px;
+left: 680px;	
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+ul.footer {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li {
+        float: left;
+
+}
+
+footer {
+
+    position: relative;
+    top: 435px;
+}
